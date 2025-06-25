@@ -161,6 +161,11 @@ section:nth-child(even) {
     color: var(--primary-color);
 }
 
+.card-link {
+    text-decoration: none;
+    color: inherit;
+}
+
 /* --- CONTACT --- */
 #contact {
     text-align: center;
