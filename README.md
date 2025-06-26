@@ -1,23 +1,69 @@
 # Personal Portfolio Website
 
-This project is a personal portfolio website for a team of three students from Graphic Era Hill University. It showcases their skills, projects, and contact information.
+A collaborative portfolio website created by BCA 4th semester students of Graphic Era Hill University, Bhimtal. This project showcases the skills, achievements, and teamwork of three aspiring developers.
 
-## Team Members & Contributions
+## 🚀 Project Overview
+This website serves as a digital portfolio for our team, highlighting our individual strengths and collective journey in web development. It features:
+- A main landing page introducing the team
+- Individual portfolio pages for each member
+- Contact and project showcase sections
+- Clean, modern, and responsive design
 
-This website was created by:
+## 👨‍💻 Team Members
+| Name                     | University Roll No | Role                        | Portfolio Link         |
+|--------------------------|--------------------|-----------------------------|-----------------------|
+| Pranjal Nath Goswami     | 2371289            | HTML & Content              | [Pranjal](pranjal.html) |
+| Rahul Singh Samant       | 2371312            | JavaScript & Interactivity  | [Rahul](rahul.html)     |
+| Ravi Singh               | 2371317            | CSS & Styling               | [Ravi](ravi.html)       |
 
-| Name | Role | Contribution | Portfolio Link |
-| :--- | :--- | :--- | :--- |
-| **Pranjal Nath Goswami** | Student Engineer | HTML & Content | [View Portfolio](./pranjal.html) |
-| **Ravi Singh** | Student Engineer | CSS & Styling | [View Portfolio](./ravi.html) |
-| **Rahul Singh Samant** | Student Engineer | JavaScript & Interactivity | [View Portfolio](./rahul.html) |
-
-## Tech Stack
-
+## 🛠️ Tech Stack
 - **HTML5**
 - **CSS3**
-- **JavaScript**
+- **JavaScript (ES6+)**
+- **Google Fonts**
 
-## How to View
+## ✨ Features
+- Responsive and modern UI
+- Individual profile pages
+- Team introduction and contact section
+- Downloadable resumes
+- University logo and branding
 
-Simply open the `index.html` file in your web browser to view the main team page. From there, you can navigate to each team member's individual portfolio.
+## 📂 Project Structure
+```
+Personal-Portfolio-Website/
+├── Pranjal Nath Goswami/
+├── Rahul Singh Samant/
+├── Ravi Singh/
+├── Project Report/
+├── index.html
+├── pranjal.html
+├── rahul.html
+├── ravi.html
+├── style.css
+├── script.js
+├── README.md
+```
+
+## 📄 Project Report
+All project documentation and reports are available in the `Project Report` folder:
+- `PROJECT REPORT OF MINI PROJECT.docx`
+- `Mini project report INTRO.docx`
+- `project-report.txt`
+
+## 📋 Usage
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/PranjalNG/Personal-Portfolio-Website.git
+   ```
+2. Open `index.html` in your browser to view the main page.
+3. Navigate to individual portfolio pages from the team section.
+
+## 📞 Contact
+- **Pranjal Nath Goswami:** pranjalnathgoswami@gmail.com
+- **Rahul Singh Samant:** rahulsmant299@gmail.com
+- **Ravi Singh:** ravibungla12345@gmail.com
+
+---
+
+> Made with ❤️ by the BCA 4th Sem Team, Graphic Era Hill University, Bhimtal
