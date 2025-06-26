@@ -1,0 +1,97 @@
+======================================================================
+              PROJECT REPORT: PERSONAL PORTFOLIO WEBSITE
+======================================================================
+
+----------------------------------------------------------------------
+                             SUBMITTED BY
+----------------------------------------------------------------------
+
+- Pranjal Nath Goswami
+- Rahul Singh Samant
+- Ravi Singh
+
+----------------------------------------------------------------------
+                          SUBMITTED TO
+----------------------------------------------------------------------
+
+Graphic Era Hill University, Bhimtal Campus
+In partial fulfillment of the requirements for the
+Bachelor of Computer Applications (BCA), 4th Semester
+
+======================================================================
+                            1. ABSTRACT
+======================================================================
+
+This report details the development of a Personal Portfolio Website, a project undertaken as part of the 4th-semester curriculum for the Bachelor of Computer Applications program at Graphic Era Hill University. The primary objective of this project is to showcase our collective and individual skills in front-end web development. The website serves as a digital resume and a demonstration of our journey in learning HTML, CSS, and JavaScript. It features a main landing page that introduces the team and directs visitors to individual portfolio pages for each member.
+
+======================================================================
+                           2. INTRODUCTION
+======================================================================
+
+In today's digital age, a personal portfolio website is an essential tool for any aspiring tech professional. It provides a platform to showcase projects, skills, and experience to potential employers and collaborators. Our team, consisting of three passionate BCA students, decided to create a multi-page portfolio website to apply the theoretical knowledge gained in our coursework into a practical, real-world application. This project focuses on clean design, user-friendly navigation, and a clear presentation of our capabilities.
+
+======================================================================
+                        3. TEAM AND ROLES
+======================================================================
+
+The project was a collaborative effort, with tasks divided among the team members based on their interests and strengths:
+
+*   **Pranjal Nath Goswami:**
+    *   **Role:** HTML & Content Creation
+    *   **Responsibilities:** Structured the main `index.html` page and his personal portfolio page (`pranjal.html`). Was responsible for writing and organizing the textual content, ensuring semantic HTML5 practices.
+
+*   **Ravi Singh:**
+    *   **Role:** CSS & Styling
+    *   **Responsibilities:** Designed the visual layout and aesthetics of the website using CSS. Focused on creating a consistent theme, managing colors, fonts, and making the design responsive for different screen sizes. Handled the `style.css` file and styling for his page (`ravi.html`).
+
+*   **Rahul Singh Samant:**
+    *   **Role:** JavaScript & Interactivity
+    *   **Responsibilities:** Tasked with adding dynamic and interactive elements to the website using JavaScript. This includes handling user events and potentially future features like form validation or animations. Responsible for `script.js` and interactivity on his page (`rahul.html`).
+
+======================================================================
+                         4. TECHNOLOGY STACK
+======================================================================
+
+This project is built using fundamental front-end web technologies:
+
+*   **HTML5:** Used for creating the structure and content of the web pages.
+*   **CSS3:** Used for styling the website, including layout, colors, typography, and responsive design. We utilized Google Fonts to enhance the visual appeal.
+*   **JavaScript (ES6+):** Intended for adding interactivity to the website.
+
+======================================================================
+                      5. DESIGN AND IMPLEMENTATION
+======================================================================
+
+The website consists of a central landing page (`index.html`) and individual portfolio pages for each team member (`pranjal.html`, `ravi.html`, `rahul.html`).
+
+*   **Home Page (`index.html`):**
+    *   **Header:** Contains the logo and navigation links to different sections of the page (About, Team, Contact).
+    *   **Hero Section:** A prominent section introducing the team.
+    *   **About Section:** Provides information about the team and the university.
+    *   **Team Section:** Features cards for each team member. Each card displays a profile picture, name, and role, and links to their individual portfolio page.
+    *   **Contact Section:** Includes contact information and call-to-action buttons.
+    *   **Footer:** Contains copyright information and links to professional profiles like GitHub and LinkedIn.
+
+*   **Styling (`style.css`):**
+    *   A clean and modern design approach was taken.
+    *   The Poppins font family from Google Fonts is used for better readability.
+    *   A consistent color scheme and layout are maintained across the pages.
+    *   Flexbox and Grid are used for layout management, particularly in the team section.
+    *   The design is intended to be responsive, adapting to different device screens.
+
+======================================================================
+                             6. CONCLUSION
+======================================================================
+
+This project has been an excellent learning experience, allowing us to apply our knowledge of front-end technologies to a tangible project. We successfully created a functional and visually appealing portfolio website that meets the initial requirements. The process reinforced our understanding of HTML structure, CSS styling, and the importance of collaboration and version control.
+
+======================================================================
+                           7. FUTURE SCOPE
+======================================================================
+
+While the current version of the website serves its purpose, there are several potential enhancements for the future:
+
+*   **Advanced JavaScript Interactivity:** Implement more dynamic features like smooth scrolling, animations on scroll, a theme switcher (light/dark mode), and a functional contact form with client-side validation.
+*   **Backend Integration:** Add a backend (e.g., using Node.js or a serverless function) to handle the contact form submissions and store them in a database.
+*   **Individual Portfolio Enhancement:** Each team member can further develop their personal page to include more detailed project descriptions, a blog, and more interactive elements.
+*   **Performance Optimization:** Optimize images and code to ensure faster load times. 
